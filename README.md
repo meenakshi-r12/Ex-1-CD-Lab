@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a3e1667-19d3-4fca-8919-db13be349675" /># Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
+# Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
 # Register Number :212224220062
 # Date : 18.9.2025
 # AIM :
@@ -13,6 +13,7 @@
 7.	To reach a variable, enter the variable to be searched and the symbol table has been checked for the corresponding variable, the variable along with its address is displayed as a result.
 8.	Stop the program. 
 # PROGRAM
+```
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
@@ -62,7 +63,7 @@ int main() {
     }
     return 0;
 }
-
+```
 # OUTPUT
 
 <img width="675" height="491" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/38ef0dbe-55dc-4a9d-ac25-4b0ea549891d" />
